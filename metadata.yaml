@@ -1,0 +1,32 @@
+_repo: Saunterings-in-and-about-London_46571
+contributor:
+  translator:
+    agent_name: Wenckstern, Otto von
+    aliases:
+    - Von Wenckstern, Otto
+    - Wenckstern, Otto
+    birthdate: 1819
+    deathdate: 1869
+    gutenberg_agent_id: '37254'
+    url: http://www.gutenberg.org/2009/agents/37254
+covers:
+- cover_type: archival
+  image_path: 46571/46571-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Schlesinger, Max
+    gutenberg_agent_id: '43855'
+    url: http://www.gutenberg.org/2009/agents/43855
+description: ''
+gutenberg_issued: '2014-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Saunterings in and about London
+url: http://www.gutenberg.org/ebooks/46571
